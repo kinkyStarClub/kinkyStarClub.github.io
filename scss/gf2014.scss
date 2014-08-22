@@ -1,0 +1,47 @@
+@import "normalize";
+@import "foundation";
+@import "font-awesome";
+
+body {
+	background-color: #000000;
+	background-image: url('http://res.cloudinary.com/kinkystar/image/upload/v1408702091/layout/gf_bg_hd.jpg');
+    background-position: center top;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    font-family: 'Arbutus', cursive;
+    text-shadow: -1px 0 rgba(255, 165, 0, 0.2), 0 1px rgba(255, 165, 0, 0.2), 1px 0 rgba(255, 165, 0, 0.2), 0 -1px rgba(255, 165, 0, 0.2);
+
+    @media screen and (max-width: 767px) {
+    	background-image: url('http://res.cloudinary.com/kinkystar/image/upload/v1408702091/layout/gf_bg_portrait.jpg');
+    }
+}
+
+a, a:hover {
+	color: #000000;
+}
+
+.thead {
+    background-color: rgba(255, 165, 0, 0.4);
+    color: antiquewhite;
+}
+
+.medium-1, .medium-2, .medium-3 {
+    height: 100px;
+
+    @media screen and (max-width: 767px) {
+        height: inherit;
+    }
+}
+
+.medium-2, .medium-3 {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+.performance {
+    margin-right: 302px;
+    background-color: rgba(255, 255, 255, 0.8);
+
+    @media screen and (max-width: 767px) {
+        margin-right: auto;
+    }
+}

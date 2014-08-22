@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block pageTitle %}Welkom{% endblock %} - Kinky Star</title>
+    <base href="{{ siteUrl }}">
+
+    <link href="assets/css/site.css" rel="stylesheet">
+    {% block css %}{% endblock %}
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.min.js"></script>
+  </head>
+  <body>
+
+    <div class="row">
+      <div class="small-9 large-centered columns">
+        <div class="row">
+          <div class="medium-4 columns hide-for-small-only">
+            <img src="http://res.cloudinary.com/kinkystar/image/upload/v1408702087/layout/kssmall.gif" alt="">
+          </div>
+          <div class="small-12 medium-8 columns">
+            <h3 class="text-muted">Kinky Star <small>Jeugd- en muziekcentrum</small></h3>
+            {% block navigation %}{% endblock %}
+          </div>
+        </div>
+      </div>
+    </div>
+
+     {% block content %}{% endblock %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="{{ siteUrl }}/assets/js/foundation.min.js"></script>
+    <script type="text/javascript">
+    $(document).foundation();
+    </script>
+    {% block scripts %}{% endblock %}
+    <script src="assets/js/analytics.js"></script>
+
+  </body>
+</html>

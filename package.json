@@ -1,0 +1,28 @@
+{
+  "name": "kinky-star-html",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidDuymelinck/kinky-star-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidDuymelinck/kinky-star-html/issues"
+  },
+  "homepage": "https://github.com/davidDuymelinck/kinky-star-html",
+  "dependencies": {
+    "dotenv": "^0.4.0",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-less": "^0.11.3",
+    "grunt-swig": "^0.2.1",
+    "node-static": "^0.7.3"
+  }
+}

@@ -1,0 +1,5 @@
+.env
+npm-debug.log
+node_modules/*
+.sass-cache
+.sublime-grunt.cache
