@@ -1,5 +1,7 @@
 {% extends '../../layout-galaxy.html' %}
 
+{% block pageTitle %}JonGeduld - Galaxy{% endblock %}
+
 {% block content %}
 <div class="row">
        <div class="small-12 columns">

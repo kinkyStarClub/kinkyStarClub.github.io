@@ -1,5 +1,7 @@
 {% extends '../../layout-galaxy.html' %}
 
+{% block pageTitle %}GRIMM - Galaxy{% endblock %}
+
 {% block content %}
 <div class="row">
        <h1>GRIMM</h1>

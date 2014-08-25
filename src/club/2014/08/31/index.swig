@@ -1,5 +1,7 @@
 {% extends '../../../../layout-club.html' %}
 
+{% block pageTitle %}31 Augustus 2014 - Club{% endblock %}
+
 {% block content %}
 <div class="row">
 	<div class="small-12 columns">

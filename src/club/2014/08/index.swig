@@ -1,5 +1,7 @@
 {% extends '../../../layout-club.html' %}
 
+{% block pageTitle %}Augustus 2014 - Club{% endblock %}
+
 {% block content %}
 <div class="row">
 	<h2 class="text-center">Augustus 2014</h2>
