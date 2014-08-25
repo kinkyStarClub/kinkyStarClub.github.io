@@ -3,6 +3,8 @@
 {% block content %}
 <div class="row">
 	<h2>Augustus 2014</h2>
+</div>
+<div class="row">
 	<ul class="small-block-grid-6 medium-block-grid-3">
 		<li>
 			<a href="{{ siteUrl }}/club/2014/08/29">
