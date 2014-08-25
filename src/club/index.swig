@@ -2,7 +2,7 @@
 
 {% block content %}
 <div class="row">
-      <div class="small-1 columns2 columns">
+      <div class="small-12">
         <h1>2014</h1>
         <div class="row">
         	<div class="small-1 columns">
