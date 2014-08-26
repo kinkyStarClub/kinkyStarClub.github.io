@@ -1,0 +1,3 @@
+<ul class="breadcrumbs">{% for crumb in crumbs %}
+		<li class="{% if loop.last %}current{% endif %} {% if crumb.link == '#' %}unavailable{% endif %}"><a href="{{ siteUrl }}{{ crumb.link }}">{{ crumb.text }}</a></li>{% endfor %}
+</ul>
