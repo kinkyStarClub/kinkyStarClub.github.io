@@ -1,8 +1,8 @@
 $(function(){
 	var displayShow = function(i, show){
-			var html = ['<div class="small-4 columns">',
+			var html = ['<div class="small-3 columns">',
 						'<a href="'+show.url+'">',
-						'<img src="'+show.pictures.large+'"><br>',
+						'<img src="'+show.pictures.medium+'"><br>',
 						show.name+'</a>',
 						'</div>'];
 

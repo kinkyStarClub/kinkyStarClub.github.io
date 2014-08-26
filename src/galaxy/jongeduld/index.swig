@@ -35,7 +35,7 @@
 
      <div class="row">
        <h2>In de kijker</h2>
-       <div id="podcasts">
+       <div id="podcasts" class="row">
 
        </div>
      </div>
