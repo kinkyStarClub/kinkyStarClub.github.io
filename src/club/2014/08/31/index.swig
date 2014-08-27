@@ -1,4 +1,4 @@
-{% extends '../../../../layout-club.html' %}
+{% extends '../../../../layout/club.html' %}
 
 {% block pageTitle %}31 Augustus 2014 - Club{% endblock %}
 

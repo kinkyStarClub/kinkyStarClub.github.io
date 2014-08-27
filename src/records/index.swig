@@ -1,4 +1,4 @@
-{% extends '../layout-records.html' %}
+{% extends '../layout/records.html' %}
 
 {% block pageTitle %}Records{% endblock %}
 

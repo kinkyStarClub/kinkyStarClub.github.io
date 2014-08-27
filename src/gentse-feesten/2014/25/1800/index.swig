@@ -1,4 +1,4 @@
-{% extends '../../../../layout-gf2014.html' %}
+{% extends '../../../../layout/gf2014.html' %}
 
 {% block content %}
 <div class="performance">

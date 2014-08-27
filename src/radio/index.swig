@@ -1,4 +1,4 @@
-{% extends '../layout-radio.html' %}
+{% extends '../layout/radio.html' %}
 
 {% block pageTitle %}Radio{% endblock %}
 

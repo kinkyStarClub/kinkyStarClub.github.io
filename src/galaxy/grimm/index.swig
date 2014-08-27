@@ -1,4 +1,4 @@
-{% extends '../../layout-galaxy.html' %}
+{% extends '../../layout/galaxy.html' %}
 
 {% block pageTitle %}GRIMM - Galaxy{% endblock %}
 
