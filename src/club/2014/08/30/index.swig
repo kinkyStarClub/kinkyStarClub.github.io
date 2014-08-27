@@ -4,7 +4,7 @@
 
 {% block content %}
 <div class="row">
-	<h3>Elements <small>21:00 ZO 30/<a href="{{ siteUrl }}/club/2014/08">8</a></small></h3>
+	<h3>Elements <small>21:00 ZO 30/<a href="{{ siteUrl }}/club/2014/08" class="tiny button secondary">8</a></small></h3>
 </div>
 {% include '../../../../artists/elements.html' %}
 {% endblock %}

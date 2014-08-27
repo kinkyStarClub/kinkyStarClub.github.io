@@ -28,7 +28,7 @@
         		7
         	</div>
         	<div class="small-1 columns">
-        		<a href="{{ siteUrl }}/club/2014/08">8</a>
+        		<a href="{{ siteUrl }}/club/2014/08" class="button">8</a>
         	</div>
         	<div class="small-1 columns">
         		9
