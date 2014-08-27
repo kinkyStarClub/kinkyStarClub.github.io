@@ -10,8 +10,8 @@
 	<ul class="small-block-grid-6 medium-block-grid-5">
 		<li>
 			<a href="{{ siteUrl }}/club/2014/09/03">
-				<h4>Discodeath <small>(IT)</small></h4>
 				<p>WO 03</p>
+				<h4>Discodeath <small>(IT)</small></h4>
 			</a>
 		</li>
 		<li>
