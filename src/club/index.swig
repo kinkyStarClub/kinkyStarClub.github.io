@@ -7,31 +7,31 @@
         <h1>2014</h1>
         <div class="row">
         	<div class="small-3 medium-1 columns">
-        		1
+        		01
         	</div>
         	<div class="small-3 medium-1 columns">
-        		2
+        		02
         	</div>
         	<div class="small-3 medium-1 columns">
-        		3
+        		03
         	</div>
         	<div class="small-3 medium-1 columns">
-        		4
+        		04
         	</div>
         	<div class="small-3 medium-1 columns">
-        		5
+        		05
         	</div>
         	<div class="small-3 medium-1 columns">
-        		6
+        		06
         	</div>
         	<div class="small-3 medium-1 columns">
-        		7
+        		07
         	</div>
         	<div class="small-3 medium-1 columns">
-        		<a href="{{ siteUrl }}/club/2014/08" class="tiny button secondary">8</a>
+        		<a href="{{ siteUrl }}/club/2014/08" class="tiny button secondary">08</a>
         	</div>
         	<div class="small-3 medium-1 columns">
-        		9
+        		<a href="{{ siteUrl }}/club/2014/09" class="tiny button secondary">09</a>
         	</div>
         	<div class="small-3 medium-1 columns">
         		10
