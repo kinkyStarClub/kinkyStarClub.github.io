@@ -7,7 +7,7 @@
 	<h2 class="text-center">Augustus 2014</h2>
 </div>
 <div class="row">
-	<ul class="small-block-grid-6 medium-block-grid-3">
+	<ul class="small-block-grid-6 medium-block-grid-5">
 		<li>
 			<a href="{{ siteUrl }}/club/2014/09/03">
 				<h3>Discodeath <small>(IT)</small></h3>
@@ -16,7 +16,7 @@
 		</li>
 		<li>
 			<a href="{{ siteUrl }}/club/2014/09/04">
-				<h3>Hiphopstraatgebeuren</h3>
+				<h3>Hiphop&shy;straatgebeuren</h3>
 				<p>DO 04</p>
 			</a>
 		</li>
