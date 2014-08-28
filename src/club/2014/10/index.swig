@@ -90,36 +90,36 @@
 </div>
 <div class="row">
 	<ul class="small-block-grid-2 medium-block-grid-5">
-		<li><a href="{{ siteUrl }}/club/2014/10/23">
-				<p>WO 23</p>
+		<li><a href="{{ siteUrl }}/club/2014/10/22">
+				<p>WO 22</p>
 				<h4>The rag n bone man <small>(UK)</small></h4>
 			</a></li>
-		<li><a href="{{ siteUrl }}/club/2014/10/24">
-				<p>DO 24</p>
+		<li><a href="{{ siteUrl }}/club/2014/10/23">
+				<p>DO 23</p>
 				<h4>Kinky world</h4>
 			</a></li>
-		<li><a href="{{ siteUrl }}/club/2014/10/25">
-				<p>VR 25</p>
+		<li><a href="{{ siteUrl }}/club/2014/10/24">
+				<p>VR 24</p>
 				<h4>Last emotions V: We are ooh people</h4>
 			</a></li>
-		<li><a href="{{ siteUrl }}/club/2014/10/26">
-				<p>ZA 26</p>
+		<li><a href="{{ siteUrl }}/club/2014/10/25">
+				<p>ZA 25</p>
 				<h4>JonGeduld</h4>
 			</a></li>
-		<li><a href="{{ siteUrl }}/club/2014/10/27">
-				<p>ZO 27</p>
+		<li><a href="{{ siteUrl }}/club/2014/10/26">
+				<p>ZO 26</p>
 				<h4>Thisquietarmy <small>(CAN)</small></h4>
 			</a></li>
 	</ul>
 </div>
 <div class="row">
 	<ul class="small-block-grid-2 medium-block-grid-2">
-		<li><a href="{{ siteUrl }}/club/2014/10/30">
-				<p>WO 30</p>
+		<li><a href="{{ siteUrl }}/club/2014/10/29">
+				<p>WO 29</p>
 				<h4>Arise fair sun</h4>
 			</a></li>
-		<li><a href="{{ siteUrl }}/club/2014/10/27">
-				<p>DO 31</p>
+		<li><a href="{{ siteUrl }}/club/2014/10/31">
+				<p>VR 31</p>
 				<h4>Kinky metal halloween : Stahlsarg <small>(UK)</small></h4>
 			</a></li>
 	</ul>
