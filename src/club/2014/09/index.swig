@@ -7,7 +7,7 @@
 	<h2 class="text-center">September 2014</h2>
 </div>
 <div class="row">
-	<ul class="small-block-grid-6 medium-block-grid-5">
+	<ul class="small-block-grid-2 medium-block-grid-5">
 		<li>
 			<a href="{{ siteUrl }}/club/2014/09/03">
 				<p>WO 03</p>
@@ -82,7 +82,7 @@
 	</div>
 </div>
 <div class="row">
-	<ul class="small-block-grid-6 medium-block-grid-5">
+	<ul class="small-block-grid-2 medium-block-grid-5">
 		<li><a href="{{ siteUrl }}/club/2014/09/17">
 				<p>WO 17</p>
 				<h4>Gura</h4>
@@ -106,7 +106,7 @@
 	</ul>
 </div>
 <div class="row">
-	<ul class="small-block-grid-6 medium-block-grid-5">
+	<ul class="small-block-grid-2 medium-block-grid-5">
 		<li><a href="{{ siteUrl }}/club/2014/09/24">
 				<p>WO 24</p>
 				<h4>The antler king</h4>

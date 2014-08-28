@@ -7,7 +7,7 @@
 	<h2 class="text-center">Oktober 2014</h2>
 </div>
 <div class="row">
-	<ul class="small-block-grid-6 medium-block-grid-5">
+	<ul class="small-block-grid-2 medium-block-grid-5">
 		<li>
 			<a href="{{ siteUrl }}/club/2014/10/01">
 				<p>WO 01</p>
@@ -41,7 +41,7 @@
 	</ul>
 </div>
 <div class="row">
-	<ul class="small-block-grid-6 medium-block-grid-5">
+	<ul class="small-block-grid-2 medium-block-grid-5">
 		<li><a href="{{ siteUrl }}/club/2014/10/08">
 				<p>WO 08</p>
 				<h4>Birds</h4>
@@ -65,7 +65,7 @@
 	</ul>
 </div>
 <div class="row">
-	<ul class="small-block-grid-6 medium-block-grid-5">
+	<ul class="small-block-grid-2 medium-block-grid-5">
 		<li><a href="{{ siteUrl }}/club/2014/10/15">
 				<p>WO 15</p>
 				<h4>Togtont</h4>
@@ -89,7 +89,7 @@
 	</ul>
 </div>
 <div class="row">
-	<ul class="small-block-grid-6 medium-block-grid-5">
+	<ul class="small-block-grid-2 medium-block-grid-5">
 		<li><a href="{{ siteUrl }}/club/2014/10/23">
 				<p>WO 23</p>
 				<h4>The rag n bone man <small>(UK)</small></h4>
@@ -113,7 +113,7 @@
 	</ul>
 </div>
 <div class="row">
-	<ul class="small-block-grid-6 medium-block-grid-2">
+	<ul class="small-block-grid-2 medium-block-grid-2">
 		<li><a href="{{ siteUrl }}/club/2014/10/30">
 				<p>WO 30</p>
 				<h4>Arise fair sun</h4>
