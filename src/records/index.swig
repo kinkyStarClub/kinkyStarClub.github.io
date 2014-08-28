@@ -11,7 +11,7 @@
              <h3>Zool - Ballroom Blitz</h3>
              <div class="row">
                <div class="small-12 medium-3 columns">
-               <img src="http://res.cloudinary.com/kinkystar/image/upload/c_scale,w_100/v1398618693/Zool_-_ballroom_blitz_lvgfjk.jpg" alt="Zool - Ballroom Blitz cover">
+               <img src="http://res.cloudinary.com/kinkystar/image/upload/c_scale,w_100/v1398618693/releases/Zool_-_ballroom_blitz_lvgfjk.jpg" alt="Zool - Ballroom Blitz cover">
                </div>
                <div class="small-12 medium-8 columns">
                  <p> Op zijn derde album Ballroom Blitz keert Zool. (aka Gerry Vergult) terug naar zijn eerste muzikale liefde, de gitaar. In de acht
@@ -26,7 +26,7 @@
              <h3>Zato - Mudra Muda</h3>
              <div class="row">
                <div class="small-12 medium-3 columns">
-                 <img src="http://res.cloudinary.com/kinkystar/image/upload/c_scale,w_100/v1398618700/zato_-_mudra_muda_jikef0.jpg" alt="Zato - Mudra Muda cover">
+                 <img src="http://res.cloudinary.com/kinkystar/image/upload/c_scale,w_100/v1398618700/releases/zato_-_mudra_muda_jikef0.jpg" alt="Zato - Mudra Muda cover">
                </div>
                <div class="small-12 medium-8 columns">
                  <p> Zato is een instrumentaal experimenteel/progressief noiserock trio uit Gent, België, opgericht in 2008. Hun EP ‘Kill Like a King’ (2010) was een eerste worp naar een empirisch onderzoek over de donkerste kant van de mens en zijn talent. Op Zato’s ...</p>
@@ -41,7 +41,7 @@
              <h3>Mote - vulnerable in the a.m. light</h3>
              <div class="row">
                <div class="small-12 medium-3 columns">
-                 <img src="http://res.cloudinary.com/kinkystar/image/upload/c_scale,w_100/v1398618700/MOTE_-_vulnerable_in_the_a_m_light_vxxmcs.png" alt="Mote - vulnerable in the a.m. light cover">
+                 <img src="http://res.cloudinary.com/kinkystar/image/upload/c_scale,w_100/v1398618700/releases/MOTE_-_vulnerable_in_the_a_m_light_vxxmcs.png" alt="Mote - vulnerable in the a.m. light cover">
                </div>
                <div class="small-12 medium-8 columns">
                  <p> Quote van Robin Proper-Sheppard ( The God Machine, Sophia, The Flower Shop Recs ) ; "Great dreamy boy/girl vibe with some Chicago-era indie post rock in it. Sounds fresh!"</p>
@@ -54,7 +54,7 @@
              <h3>Off the Radar - Off the Radar</h3>
              <div class="row">
                <div class="small-12 medium-3 columns">
-                 <img src="http://res.cloudinary.com/kinkystar/image/upload/c_scale,w_100/v1398618694/Off_The_Radar_-_Off_the_radar_g67bgo.jpg" alt="Off the Radar - Off the Radar cover">
+                 <img src="http://res.cloudinary.com/kinkystar/image/upload/c_scale,w_100/v1398618694/releases/Off_The_Radar_-_Off_the_radar_g67bgo.jpg" alt="Off the Radar - Off the Radar cover">
                </div>
                <div class="small-12 medium-8 columns">
                  <p> Bassriffs op gitaar, inventieve drumpatronen, primitieve oerschreeuw, hardcore popmusic.</p>
