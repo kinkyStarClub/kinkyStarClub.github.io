@@ -34,7 +34,7 @@
         		<a href="{{ siteUrl }}/club/2014/09" class="tiny button secondary">09</a>
         	</div>
         	<div class="small-3 medium-1 columns">
-        		10
+        		<a href="{{ siteUrl }}/club/2014/10" class="tiny button secondary">10</a>
         	</div>
         	<div class="small-3 medium-1 columns">
         		11
