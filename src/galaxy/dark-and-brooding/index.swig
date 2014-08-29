@@ -7,7 +7,7 @@
 	<p>Roze polo's zijn toegestaan als je een zwart hart hebt.</p>
 </div>
 <div class="row">
-       <div class="small-12 medium-6">
+       <div class="small-12 medium-6 columns">
        	<ul class="pricing-table">
        		<li class="title">GRIMM</li>
        		<li class="bullet-item">
@@ -18,7 +18,7 @@
        		</li>
        	</ul>
        </div>
-       <div class="small-12 medium-6">
+       <div class="small-12 medium-6 columns">
        	<ul class="pricing-table">
        		<li class="title">Kinky metal</li>
        		<li class="bullet-item">
