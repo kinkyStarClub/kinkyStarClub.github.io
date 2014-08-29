@@ -113,10 +113,14 @@
 	</ul>
 </div>
 <div class="row">
-	<ul class="small-block-grid-2 medium-block-grid-2">
+	<ul class="small-block-grid-2 medium-block-grid-3">
 		<li><a href="{{ siteUrl }}/club/2014/10/29">
 				<p>WO 29</p>
 				<h4>Arise fair sun</h4>
+			</a></li>
+		<li><a href="{{ siteUrl }}/club/2014/10/30">
+				<p>DO 30</p>
+				<h4>'Dia de los muertos' party</h4>
 			</a></li>
 		<li><a href="{{ siteUrl }}/club/2014/10/31">
 				<p>VR 31</p>
