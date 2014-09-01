@@ -1,11 +1,11 @@
 {% extends '../../layout/galaxy.html' %}
 
-{% block pageTitle %}JonGeduld - Galaxy{% endblock %}
+{% block pageTitle %}The road to the academ - Galaxy{% endblock %}
 
 {% block content %}
 <div class="row">
-	<div class="small-12 medium-4 medium-centered columns">
-		<h2 class="text-align">The raod to the academy</h2>
+	<div class="small-12 medium-6 medium-centered columns">
+		<h2 class="text-align">The road to the academy</h2>
 		<p>
 			Op 8 november kan je tijdens Play & Produce in de Academy terecht voor een stevige portie beats voor beginners. Kan je niet wachten tot dan om de dj of producer in jezelf een kickstart te geven? Dan hebben we goed nieuws voor jou, want voor 't eerst organiseert Popunt "The Road to the Academy" in samenwerking met Kinky Star.
 		</p>
