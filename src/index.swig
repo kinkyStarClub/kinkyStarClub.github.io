@@ -7,7 +7,7 @@
 {% block content %}
 <div class="row">
 	<div class="panel">
-        <h1>Het is niet lang meer tot het nieuwe seizoen!</h1>
+        <h1>Nieuwe samenwerking: <a href="http://www.kinkystar.com/galaxy/the-road-to-the-academy">The road to the academy</a></h1>
       </div>
 </div>
 
