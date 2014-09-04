@@ -39,7 +39,7 @@ window.fbAsyncInit = function() {
 		$('.fb-event span').text(0);
 		$('.fb-event').removeClass('hide');
 	}else{
-        	FB.api(
+        FB.api(
 		    "/"+eventid,
 		    function (response) {
 		      if (response && !response.error) {
@@ -51,6 +51,8 @@ window.fbAsyncInit = function() {
 		        $('.fb-event h3').text(display);
 
 		        $('.fb-event p:first').html(Autolinker.link(response.description));
+
+		        $('.fb-event span').text(response.attending_count);
 		      }
 		    },
 		    {
@@ -63,18 +65,6 @@ window.fbAsyncInit = function() {
 		    function (response) {
 		      if (response && !response.error) {
 		        $('.fb-event img').attr('src', response.data[response.data.length-1].source);
-		      }
-		    },
-		    {
-			  access_token : token
-			}
-		);
-
-		FB.api(
-		    "/"+eventid+"/attending",
-		    function (response) {
-		      if (response && !response.error) {
-		        $('.fb-event span').text(response.data.length);
 
 		        $('.fb-event').removeClass('hide');
 		      }
