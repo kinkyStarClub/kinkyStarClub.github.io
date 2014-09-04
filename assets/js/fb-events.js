@@ -40,7 +40,7 @@ window.fbAsyncInit = function() {
 		$('.fb-event').removeClass('hide');
 	}else{
         FB.api(
-		    "/"+eventid,
+		    "/"+eventid+"?fields=description,name,start_time,attending_count,photos",
 		    function (response) {
 		      if (response && !response.error) {
 		        $('.fb-event h2').text(response.name);
@@ -50,28 +50,16 @@ window.fbAsyncInit = function() {
 
 		        $('.fb-event h3').text(display);
 
+		        $('.fb-event img').attr('src', response.photos.data[response.photos.data.length-1].source);
+
 		        $('.fb-event p:first').html(Autolinker.link(response.description));
 
 		        $('.fb-event span').text(response.attending_count);
-		      }
-		    },
-		    {
-			  access_token : token
-			}
-		);
-
-		FB.api(
-		    "/"+eventid+"/photos",
-		    function (response) {
-		      if (response && !response.error) {
-		        $('.fb-event img').attr('src', response.data[response.data.length-1].source);
 
 		        $('.fb-event').removeClass('hide');
 		      }
 		    },
-		    {
-			  access_token : token
-			}
+		    { access_token : token }
 		);
 	}
 };
