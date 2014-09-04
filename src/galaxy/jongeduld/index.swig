@@ -40,5 +40,5 @@
 {% endblock %}
 
 {% block scripts %}
-<script src="assets/js/jongeduld.js"></script>
+<script src="{{ siteUrl }}/assets/js/jongeduld.js"></script>
 {% endblock %}

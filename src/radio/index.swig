@@ -7,5 +7,5 @@
 {% endblock %}
 
 {% block scripts %}
-<script src="../assets/js/radio.js"></script>
+<script src="{{ siteUrl }}/assets/js/radio.js"></script>
 {% endblock %}

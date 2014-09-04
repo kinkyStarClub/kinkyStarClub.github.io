@@ -1,14 +1,14 @@
 <dl class="sub-nav">
-  <dd{% if active == "home" %} class="active"{% endif %}><a href="#">Home</a></dd>
-  <dd{% if active == "club" %} class="active"{% endif %}><a href="club">Club</a></dd>
-  <dd{% if active == "records" %} class="active"{% endif %}><a href="records">Records</a></dd>
-  <dd{% if active == "radio" %} class="active"{% endif %}><a href="radio">Radio</a></dd>
+  <dd{% if active == "home" %} class="active"{% endif %}><a href="{{ siteUrl }}">Home</a></dd>
+  <dd{% if active == "club" %} class="active"{% endif %}><a href="{{ siteUrl }}/club">Club</a></dd>
+  <dd{% if active == "records" %} class="active"{% endif %}><a href="{{ siteUrl }}/records">Records</a></dd>
+  <dd{% if active == "radio" %} class="active"{% endif %}><a href="{{ siteUrl }}/radio">Radio</a></dd>
   <dd class="dropdown{% if active == 'galaxy' %} active{% endif %}">
     <a href="#" data-dropdown="galaxy-nav" data-options="is_hover:true">Galaxy</a>
     <ul id="galaxy-nav" class="f-dropdown" data-dropdown-content>
-      <li><a href="galaxy/jongeduld">Jongeduld</a></li>
-      <li><a href="galaxy/grimm">GRIMM</a></li>
-      <li><a href="galaxy/the-road-to-the-academy">The road to the academy</a></li>
+      <li><a href="{{ siteUrl }}/galaxy/jongeduld">Jongeduld</a></li>
+      <li><a href="{{ siteUrl }}/galaxy/grimm">GRIMM</a></li>
+      <li><a href="{{ siteUrl }}/galaxy/the-road-to-the-academy">The road to the academy</a></li>
     </ul>
   </dd>
 </ul>

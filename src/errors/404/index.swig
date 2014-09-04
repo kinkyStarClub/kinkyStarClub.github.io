@@ -1,5 +1,9 @@
 {% extends '../../layout/base.html' %}
 
+{% block navigation %}
+{% include "../../partials/navigation.html" %}
+{% endblock %}
+
 {% block content %}
 <div class="row">
 	<h1>De pagina die je zocht werd niet gevonden.</h1>

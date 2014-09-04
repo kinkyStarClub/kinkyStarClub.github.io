@@ -1,14 +1,14 @@
 {% extends './layout/base.html' %}
 
 {% block navigation %}
-{% include "./partials/navigation.html" with {active: "home"} only %}
+{% include "./partials/navigation.html" with {active: "home"} %}
 {% endblock %}
 
 {% block content %}
 <div id="fb-root"></div>
 <div class="row">
 	<div class="panel">
-        <h1>Nieuwe samenwerking: <a href="http://www.kinkystar.com/galaxy/the-road-to-the-academy">The road to the academy</a></h1>
+        <h1>Nieuwe samenwerking: <a href="{{ siteUrl }}/galaxy/the-road-to-the-academy">The road to the academy</a></h1>
       </div>
 </div>
 
@@ -44,7 +44,7 @@
     	'14-09-2014': 1497015567182111
 	}
 </script>
-<script src="assets/js/autolinker.js"></script>
+<script src="{{ siteUrl }}/assets/js/autolinker.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.2/moment-with-locales.min.js"></script>
-<script src="assets/js/fb-events.js"></script>
+<script src="{{ siteUrl }}/assets/js/fb-events.js"></script>
 {% endblock %}
