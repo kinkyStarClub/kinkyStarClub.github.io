@@ -1,6 +1,8 @@
 var token = 'CAAEO9uQ4ryoBAGmaNZAiZAiRFQi7sjUGgz9ZClSseKKTJQF1YZCs4ryTv4L3OuNT8XhSvbQSQlILGY0IsmKPnHyQom1U2CY07RCw3pkSgQnyluVW9CvAMwJO3KQdYe3OEP04PpgAD2fa3ecpVqRpAmPjkxt9wcybLWGaS0lTClml81aqeYmQIGiwwyb2cZAdHzbYzYZB53uXyFPQq22NrW',
+	isToday = false,
 	findEvent = function(date, events){
     		if(typeof events[date] !== 'undefined'){
+    			isToday = true;
     			return events[date];
     		}
 
@@ -35,12 +37,19 @@ window.fbAsyncInit = function() {
 		$('.fb-event h2').text('Aan het uitrusten');
 		$('.fb-event p:first').text('maar we zijn snel weer!');
 		$('.fb-event span').text(0);
+		$('.fb-event').removeClass('hide');
 	}else{
         	FB.api(
 		    "/"+eventid,
 		    function (response) {
 		      if (response && !response.error) {
 		        $('.fb-event h2').text(response.name);
+
+		        var start = moment(response.start_time).locale('nl'),
+		        	    display = isToday ? 'vandaag '+start.format('HH:mm') : start.format('ddd DD/MM HH:mm');
+
+		        $('.fb-event h3').text(display);
+
 		        $('.fb-event p:first').html(Autolinker.link(response.description));
 		      }
 		    },
@@ -66,6 +75,8 @@ window.fbAsyncInit = function() {
 		    function (response) {
 		      if (response && !response.error) {
 		        $('.fb-event span').text(response.data.length);
+
+		        $('.fb-event').removeClass('hide');
 		      }
 		    },
 		    {

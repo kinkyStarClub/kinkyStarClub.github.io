@@ -15,8 +15,9 @@
 
 <div class="row">
         <div class="small-12 medium-6 columns">
-        	<div class="panel fb-event">
+        	<div class="panel fb-event hide">
 			   	<h2></h2>
+			   	<h3></h3>
 			   	<img>
 			   	<p></p>
 			   	<p>Mensen die komen: <span></span></p>
@@ -44,6 +45,6 @@
 	}
 </script>
 <script src="assets/js/autolinker.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.2/moment.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.2/moment-with-locales.min.js"></script>
 <script src="assets/js/fb-events.js"></script>
 {% endblock %}
