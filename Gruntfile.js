@@ -5,7 +5,7 @@ var siteUrl = 'http://www.kinkystar.com';
 
 switch(process.env.SHOWON){
   case 'PC': siteUrl = 'http://localhost:3000'; break;
-  case 'GITHUB': siteUrl = 'http://kinkyStarClub.github.io'; break;
+  case 'GITHUB': siteUrl = 'https://kinkyStarClub.github.io'; break;
   case 'KINKYBE': siteUrl = 'http://www.kinkystar.be'; break;
   case 'KINKYCOM': siteUrl = 'http://www.kinkystar.com'; break;
 }
