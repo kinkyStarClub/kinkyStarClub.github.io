@@ -14,9 +14,9 @@
 		</a>
 	</div>
 	<div class="small-6 columns">
-		<a href="{{ siteUrl }}/club/">
-			<p></p>
-			<h4></h4>
+		<a href="{{ siteUrl }}/club/2014/11">
+			<p>ZO 2</p>
+			<h4>Crystal soda cream <small>(AUT)</small></h4>
 		</a>
 	</div>
 </div>
