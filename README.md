@@ -7,7 +7,7 @@ The public site will be generated in the www directory. To generate the code you
 
 Once node is installed you go to the git repository directory in the command line and run `npm install`.
 
-After you make your changes in the src directory, you run `node_modules/.bin/grunt`.
+After you make your changes in the src directory, you run `npm run htmlize`.
 
 In the .env file there is a SHOWON variable. The value can be one of these options; PC, GITHUB, KINKYBE, KINKYCOM. No value is the same as KINKYCOM.
 
