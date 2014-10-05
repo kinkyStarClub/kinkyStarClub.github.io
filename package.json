@@ -4,10 +4,7 @@
   "description": "0.0.1",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "download": "git pull",
-      "transform": "./node_modules/.bin/grunt",
-    "upload": "git push"
+    "start": "node index"
   },
   "repository": {
     "type": "git",
