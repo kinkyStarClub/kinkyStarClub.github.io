@@ -4,8 +4,10 @@
   "description": "0.0.1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index"
+    "start": "node index",
+    "download": "git pull",
+    "changes": "./node-modules/.bin/grunt && git commit -am",
+    "upload": "git push"
   },
   "repository": {
     "type": "git",
