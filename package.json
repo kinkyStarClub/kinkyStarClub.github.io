@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index",
     "download": "git pull",
-    "changes": "./node-modules/.bin/grunt && git commit -am",
+      "transform": "./node_modules/.bin/grunt",
     "upload": "git push"
   },
   "repository": {
