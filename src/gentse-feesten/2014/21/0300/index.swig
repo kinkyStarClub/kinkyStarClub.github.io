@@ -18,6 +18,6 @@
 			<h1>Struggler <small>MA 21 03:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/struggler.html' %}
+	{% include '../../../../partials/artists/struggler.html' %}
 </div>
 {% endblock %}

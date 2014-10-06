@@ -18,6 +18,6 @@
 			<h1>Maes Bierbakbuskers: David "Shadow" Velasquez <small>ZA 26 17:30</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/david_shadow_velasquez.html' %}
+	{% include '../../../../partials/artists/david_shadow_velasquez.html' %}
 </div>
 {% endblock %}

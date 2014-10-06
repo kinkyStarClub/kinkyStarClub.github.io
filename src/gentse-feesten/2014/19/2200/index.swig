@@ -18,6 +18,6 @@
 			<h1>The Glucks <small>ZA 19 22:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/the_glucks.html' %}
+	{% include '../../../../partials/artists/the_glucks.html' %}
 </div>
 {% endblock %}

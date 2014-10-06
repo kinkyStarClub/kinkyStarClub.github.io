@@ -18,6 +18,6 @@
 			<h1>The Scrap Dealers <small>ZA 26 22:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/the_scrap_dealers.html' %}
+	{% include '../../../../partials/artists/the_scrap_dealers.html' %}
 </div>
 {% endblock %}

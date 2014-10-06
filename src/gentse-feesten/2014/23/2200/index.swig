@@ -18,6 +18,6 @@
 			<h1>Alpha Whale <small>WO 23 22:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/alpha_whale.html' %}
+	{% include '../../../../partials/artists/alpha_whale.html' %}
 </div>
 {% endblock %}

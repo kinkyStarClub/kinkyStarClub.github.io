@@ -18,6 +18,6 @@
 			<h1>Needle And The Pain Reaction <small>ZO 20 03:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/needle_and_the_pain_reaction.html' %}
+	{% include '../../../../partials/artists/needle_and_the_pain_reaction.html' %}
 </div>
 {% endblock %}

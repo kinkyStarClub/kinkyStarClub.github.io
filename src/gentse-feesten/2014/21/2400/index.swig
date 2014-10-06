@@ -18,6 +18,6 @@
 			<h1>Glowsun (F) <small>MA 21 24:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/glowsun.html' %}
+	{% include '../../../../partials/artists/glowsun.html' %}
 </div>
 {% endblock %}

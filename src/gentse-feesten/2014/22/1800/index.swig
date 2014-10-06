@@ -18,6 +18,6 @@
 			<h1>Maes Bierbakbuskers: Roberto Pakal <small>DI 22 17:30</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/roberto_pakal.html' %}
+	{% include '../../../../partials/artists/roberto_pakal.html' %}
 </div>
 {% endblock %}

@@ -18,6 +18,6 @@
 			<h1>DJ Imodium <small>MA 21</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/imodium.html' %}
+	{% include '../../../../partials/artists/imodium.html' %}
 </div>
 {% endblock %}

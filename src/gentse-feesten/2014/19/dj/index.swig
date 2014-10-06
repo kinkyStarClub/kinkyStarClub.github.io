@@ -18,6 +18,6 @@
 			<h1>DJ Jasper <small>ZA 19</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/jasper.html' %}
+	{% include '../../../../partials/artists/jasper.html' %}
 </div>
 {% endblock %}

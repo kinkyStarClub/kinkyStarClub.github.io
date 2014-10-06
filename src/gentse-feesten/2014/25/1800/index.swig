@@ -18,6 +18,6 @@
 			<h1>Maes Bierbakbuskers: Bluebird <small>VR 25 17:30</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/bluebird.html' %}
+	{% include '../../../../partials/artists/bluebird.html' %}
 </div>
 {% endblock %}

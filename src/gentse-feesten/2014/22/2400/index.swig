@@ -18,6 +18,6 @@
 			<h1>Charnia <small>DI 22 24:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/charnia.html' %}
+	{% include '../../../../partials/artists/charnia.html' %}
 </div>
 {% endblock %}

@@ -18,6 +18,6 @@
 			<h1>Maes Bierbakbuskers: Trashbeatz <small>ZO 20 18:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/trashbeatz.html' %}
+	{% include '../../../../partials/artists/trashbeatz.html' %}
 </div>
 {% endblock %}

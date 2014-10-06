@@ -18,6 +18,6 @@
 			<h1>DJ Dr. Green <small>VR 18</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/dr_green.html' %}
+	{% include '../../../../partials/artists/dr_green.html' %}
 </div>
 {% endblock %}

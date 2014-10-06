@@ -7,5 +7,5 @@
 	<h2>The rag n bone man <small>(UK)</small></h2>
 	<p>21:00 WO 22/<a href="{{ siteUrl }}/club/2014/10" class="tiny button secondary">10</a></p>
 </div>
-{% include '../../../../artists/the_rag_n_bone_man.html' %}
+{% include '../../../../partials/artists/the_rag_n_bone_man.html' %}
 {% endblock %}

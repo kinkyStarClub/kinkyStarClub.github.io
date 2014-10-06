@@ -18,6 +18,6 @@
 			<h1>Off the Radar <small>VR 18 24:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/off_the_radar.html' %}
+	{% include '../../../../partials/artists/off_the_radar.html' %}
 </div>
 {% endblock %}

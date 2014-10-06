@@ -18,6 +18,6 @@
 			<h1>WuDub!? and Babylonbuster <small>DO 17 22:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/wudub_and_babylonbuster.html' %}
+	{% include '../../../../partials/artists/wudub_and_babylonbuster.html' %}
 </div>
 {% endblock %}

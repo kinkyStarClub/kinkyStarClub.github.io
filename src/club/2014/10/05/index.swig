@@ -7,5 +7,5 @@
 	<h2>Cecilia::eyes</h2>
 	<p>21:00 ZO 05/<a href="{{ siteUrl }}/club/2014/10" class="tiny button secondary">10</a></p>
 </div>
-{% include '../../../../artists/cecilia_eyes.html' %}
+{% include '../../../../partials/artists/cecilia_eyes.html' %}
 {% endblock %}

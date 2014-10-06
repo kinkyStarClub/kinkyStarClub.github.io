@@ -18,6 +18,6 @@
 			<h1>Mosquito <small>ZA 19 03:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/mosquito.html' %}
+	{% include '../../../../partials/artists/mosquito.html' %}
 </div>
 {% endblock %}

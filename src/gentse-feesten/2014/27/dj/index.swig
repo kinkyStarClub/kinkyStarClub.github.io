@@ -18,6 +18,6 @@
 			<h1>DJ Hewhoforgothehasalzzzheimer <small>ZO 27</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/hewhoforgothehasalzzzheimer.html' %}
+	{% include '../../../../partials/artists/hewhoforgothehasalzzzheimer.html' %}
 </div>
 {% endblock %}

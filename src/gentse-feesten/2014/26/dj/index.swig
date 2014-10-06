@@ -18,6 +18,6 @@
 			<h1>DJ SVN & DJ Wagonman <small>ZA 26</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/svn_and_wagonman.html' %}
+	{% include '../../../../partials/artists/svn_and_wagonman.html' %}
 </div>
 {% endblock %}

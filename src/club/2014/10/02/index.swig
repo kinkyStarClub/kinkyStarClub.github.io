@@ -7,5 +7,5 @@
 	<h2>Hiphopstraatgebeuren</h2>
 	<p>21:00 DO 02/<a href="{{ siteUrl }}/club/2014/10" class="tiny button secondary">10</a></p>
 </div>
-{% include '../../../../artists/hiphopstraatgebeuren.html' %}
+{% include '../../../../partials/artists/hiphopstraatgebeuren.html' %}
 {% endblock %}

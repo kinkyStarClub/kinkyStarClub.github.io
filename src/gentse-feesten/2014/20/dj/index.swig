@@ -18,6 +18,6 @@
 			<h1>DJ Tamashot & DJ Stijn Kwanten <small>ZO 20</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/tamashot_and_stijn_kwanten.html' %}
+	{% include '../../../../partials/artists/tamashot_and_stijn_kwanten.html' %}
 </div>
 {% endblock %}

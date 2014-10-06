@@ -7,7 +7,7 @@
 	<h2>GRIMM: Gitaron</h2>
 	<p>21:00 ZO 16/<a href="{{ siteUrl }}/club/2014/10" class="tiny button secondary">10</a></p>
 </div>
-{% include '../../../../artists/gitaron.html' %}
+{% include '../../../../partials/artists/gitaron.html' %}
 <div class="row">
 	<h4>dj Danzerzone Noel</h4>
 </div>

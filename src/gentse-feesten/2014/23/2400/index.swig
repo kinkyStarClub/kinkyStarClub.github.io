@@ -18,6 +18,6 @@
 			<h1>Joe Speedboat <small>WO 23 24:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/joe_speedboat.html' %}
+	{% include '../../../../partials/artists/joe_speedboat.html' %}
 </div>
 {% endblock %}

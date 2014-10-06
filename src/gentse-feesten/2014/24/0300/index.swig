@@ -18,6 +18,6 @@
 			<h1>Gadje Scum <small>DO 24 03:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/gadje_scum.html' %}
+	{% include '../../../../partials/artists/gadje_scum.html' %}
 </div>
 {% endblock %}

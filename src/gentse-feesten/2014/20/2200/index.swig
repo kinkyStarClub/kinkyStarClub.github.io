@@ -18,6 +18,6 @@
 			<h1>The Shovels <small>ZO 20 22:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/the_shovels.html' %}
+	{% include '../../../../partials/artists/the_shovels.html' %}
 </div>
 {% endblock %}

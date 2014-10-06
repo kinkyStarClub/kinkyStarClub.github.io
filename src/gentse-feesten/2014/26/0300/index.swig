@@ -18,6 +18,6 @@
 			<h1>Double Veterans <small>ZA 26 03:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/double_veterans.html' %}
+	{% include '../../../../partials/artists/double_veterans.html' %}
 </div>
 {% endblock %}

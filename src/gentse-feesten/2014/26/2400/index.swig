@@ -18,6 +18,6 @@
 			<h1>MannGold <small>ZA 26 24:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/manngold.html' %}
+	{% include '../../../../partials/artists/manngold.html' %}
 </div>
 {% endblock %}

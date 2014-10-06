@@ -18,6 +18,6 @@
 			<h1>DJ Kruisbestuiving <small>WO 23</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/kruisbestuiving.html' %}
+	{% include '../../../../partials/artists/kruisbestuiving.html' %}
 </div>
 {% endblock %}

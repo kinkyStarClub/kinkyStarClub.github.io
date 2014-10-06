@@ -18,6 +18,6 @@
 			<h1>Maes Bierbakbuskers: Hiphopstraatgebeuren <small>WO 23 17:30</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/hiphopstraatgebeuren.html' %}
+	{% include '../../../../partials/artists/hiphopstraatgebeuren.html' %}
 </div>
 {% endblock %}

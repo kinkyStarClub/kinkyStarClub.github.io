@@ -18,6 +18,6 @@
 			<h1>Mind Rays <small>VR 25 22:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/mind_rays.html' %}
+	{% include '../../../../partials/artists/mind_rays.html' %}
 </div>
 {% endblock %}

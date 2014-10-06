@@ -18,6 +18,6 @@
 			<h1>Massis <small>ZO 20 24:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/massis.html' %}
+	{% include '../../../../partials/artists/massis.html' %}
 </div>
 {% endblock %}

@@ -13,6 +13,6 @@
 			<a href="{{ siteUrl }}/gentse-feesten/2014/18/1800"><span class="hide-for-small-only">Volgende</span> <i class="fa fa-arrow-right"></i></a>
 		</div>
 	</div>
-	{% include '../../../../artists/squib.html' %}
+	{% include '../../../../partials/artists/squib.html' %}
 </div>
 {% endblock %}

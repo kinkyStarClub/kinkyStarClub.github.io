@@ -18,6 +18,6 @@
 			<h1>Grovgast (ex Codasync) <small>DO 24 22:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/grovgast.html' %}
+	{% include '../../../../partials/artists/grovgast.html' %}
 </div>
 {% endblock %}

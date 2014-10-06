@@ -7,7 +7,7 @@
 	<h2>Hiphopstraatgebeuren</h2>
 	<p>21:00 DO 04/<a href="{{ siteUrl }}/club/2014/09" class="tiny button secondary">09</a></p>
 </div>
-{% include '../../../../artists/hiphopstraatgebeuren.html' %}
+{% include '../../../../partials/artists/hiphopstraatgebeuren.html' %}
 <div class="row">
 	<p>Tjudee / Dilemma / Martijn Nelen / Mon (SG Records)</p>
 </div>

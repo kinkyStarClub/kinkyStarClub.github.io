@@ -18,6 +18,6 @@
 			<h1>Wheel of Smoke <small>MA 21 22:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/wheel_of_smoke.html' %}
+	{% include '../../../../partials/artists/wheel_of_smoke.html' %}
 </div>
 {% endblock %}

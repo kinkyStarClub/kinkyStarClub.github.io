@@ -18,6 +18,6 @@
 			<h1>Yamantau <small>DO 24 24:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/yamantau.html' %}
+	{% include '../../../../partials/artists/yamantau.html' %}
 </div>
 {% endblock %}

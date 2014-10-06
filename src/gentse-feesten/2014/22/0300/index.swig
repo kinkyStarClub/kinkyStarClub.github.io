@@ -18,6 +18,6 @@
 			<h1>The Fur <small>DI 22 03:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/the_fur.html' %}
+	{% include '../../../../partials/artists/the_fur.html' %}
 </div>
 {% endblock %}

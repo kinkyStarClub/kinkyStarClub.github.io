@@ -7,5 +7,5 @@
 	<h2>Birds</h2>
 	<p>21:00 WO 08/<a href="{{ siteUrl }}/club/2014/10" class="tiny button secondary">10</a></p>
 </div>
-{% include '../../../../artists/birds.html' %}
+{% include '../../../../partials/artists/birds.html' %}
 {% endblock %}

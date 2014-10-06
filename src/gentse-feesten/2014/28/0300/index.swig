@@ -18,6 +18,6 @@
 			<h1>The Germans <small>MA 28 03:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/the_germans.html' %}
+	{% include '../../../../partials/artists/the_germans.html' %}
 </div>
 {% endblock %}

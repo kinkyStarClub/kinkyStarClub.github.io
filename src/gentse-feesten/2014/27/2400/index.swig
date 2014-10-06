@@ -18,6 +18,6 @@
 			<h1>Teen Creeps <small>ZO 27 24:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/teen_creeps.html' %}
+	{% include '../../../../partials/artists/teen_creeps.html' %}
 </div>
 {% endblock %}

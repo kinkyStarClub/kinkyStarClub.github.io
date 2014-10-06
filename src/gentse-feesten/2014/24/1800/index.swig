@@ -18,6 +18,6 @@
 			<h1>Maes Bierbakbuskers: Den Hoed Workshop <small>DO 24 17:30</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/den_hoed_workshop.html' %}
+	{% include '../../../../partials/artists/den_hoed_workshop.html' %}
 </div>
 {% endblock %}

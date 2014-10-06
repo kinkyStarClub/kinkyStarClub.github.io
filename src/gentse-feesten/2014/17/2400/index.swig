@@ -18,6 +18,6 @@
 			<h1>Dyna Dee <small>DO 17 24:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/dyna_dee.html' %}
+	{% include '../../../../partials/artists/dyna_dee.html' %}
 </div>
 {% endblock %}

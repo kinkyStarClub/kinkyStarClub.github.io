@@ -18,6 +18,6 @@
 			<h1>The Donkey Shot <small>ZO 27 22:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/the_donkey_shot.html' %}
+	{% include '../../../../partials/artists/the_donkey_shot.html' %}
 </div>
 {% endblock %}

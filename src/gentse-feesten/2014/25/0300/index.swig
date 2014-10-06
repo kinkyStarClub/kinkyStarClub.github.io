@@ -18,6 +18,6 @@
 			<h1>Jarenduren <small>VR 25 03:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/jarenduren.html' %}
+	{% include '../../../../partials/artists/jarenduren.html' %}
 </div>
 {% endblock %}

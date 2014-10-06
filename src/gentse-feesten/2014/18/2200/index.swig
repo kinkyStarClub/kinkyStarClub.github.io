@@ -18,6 +18,6 @@
 			<h1>Hypochristmutreefuzz <small>VR 18 22:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/hypochristmutreefuzz.html' %}
+	{% include '../../../../partials/artists/hypochristmutreefuzz.html' %}
 </div>
 {% endblock %}

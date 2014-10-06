@@ -7,5 +7,5 @@
 	<h2>Kinky metal: Into the dark</h2>
 	<p>21:00 VR 03/<a href="{{ siteUrl }}/club/2014/10" class="tiny button secondary">10</a></p>
 </div>
-{% include '../../../../artists/into_the_dark.html' %}
+{% include '../../../../partials/artists/into_the_dark.html' %}
 {% endblock %}

@@ -18,6 +18,6 @@
 			<h1>Consouling Sounds DJ <small>DI 22</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/consouling_sounds_dj.html' %}
+	{% include '../../../../partials/artists/consouling_sounds_dj.html' %}
 </div>
 {% endblock %}

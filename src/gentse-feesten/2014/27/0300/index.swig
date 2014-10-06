@@ -18,6 +18,6 @@
 			<h1>The Guru Guru <small>ZO 27 03:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/the_guru_guru.html' %}
+	{% include '../../../../partials/artists/the_guru_guru.html' %}
 </div>
 {% endblock %}

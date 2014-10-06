@@ -18,6 +18,6 @@
 			<h1>DJ The Craze <small>VR 25</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/the_craze.html' %}
+	{% include '../../../../partials/artists/the_craze.html' %}
 </div>
 {% endblock %}

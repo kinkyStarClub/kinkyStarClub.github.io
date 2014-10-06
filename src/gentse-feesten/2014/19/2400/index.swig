@@ -18,6 +18,6 @@
 			<h1>Thee Marvin Gays <small>ZA 19 24:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/thee_marvin_gays.html' %}
+	{% include '../../../../partials/artists/thee_marvin_gays.html' %}
 </div>
 {% endblock %}

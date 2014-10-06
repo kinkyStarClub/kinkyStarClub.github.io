@@ -18,6 +18,6 @@
 			<h1>Maes Bierbakbuskers: Hindu Needle Trick <small>ZA 19 18:00</small></h1>
 		</div>
 	</div>
-	{% include '../../../../artists/mosquito.html' %}
+	{% include '../../../../partials/artists/mosquito.html' %}
 </div>
 {% endblock %}
