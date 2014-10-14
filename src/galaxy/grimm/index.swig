@@ -1,6 +1,6 @@
 {% extends '../../layout/galaxy.html' %}
 
-{% block pageTitle %}Dark and brooding - Galaxy{% endblock %}
+{% block pageTitle %}GRIMM - Galaxy{% endblock %}
 
 {% block content %}
 <div class="row">
