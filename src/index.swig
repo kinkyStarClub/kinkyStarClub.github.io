@@ -8,7 +8,7 @@
 <div id="fb-root"></div>
 <div class="row">
 	<div class="panel">
-        <h1>Nieuwe samenwerking: <a href="{{ siteUrl }}/galaxy/the-road-to-the-academy">The road to the academy</a></h1>
+        <h1>Werk je graag met jonge muzikanten <a href="http://res.cloudinary.com/kinkystar/image/upload/v1414083841/pdf/vacature_jongeduld.pdf" target="blank">hier</a></h1>
       </div>
 </div>
 

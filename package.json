@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidDuymelinck/kinky-star-html.git"
+    "url": "https://github.com/kinkyStarClub/kinkyStarClub.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/davidDuymelinck/kinky-star-html/issues"
+    "url": "https://github.com/kinkyStarClub/kinkyStarClub.github.io/issues"
   },
-  "homepage": "https://github.com/davidDuymelinck/kinky-star-html",
+  "homepage": "https://github.com/kinkyStarClub/kinkyStarClub.github.io",
   "dependencies": {
     "dotenv": "^0.4.0",
     "grunt": "^0.4.5",
