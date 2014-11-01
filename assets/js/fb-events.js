@@ -1,4 +1,4 @@
-var token = 'CAAEO9uQ4ryoBAGmaNZAiZAiRFQi7sjUGgz9ZClSseKKTJQF1YZCs4ryTv4L3OuNT8XhSvbQSQlILGY0IsmKPnHyQom1U2CY07RCw3pkSgQnyluVW9CvAMwJO3KQdYe3OEP04PpgAD2fa3ecpVqRpAmPjkxt9wcybLWGaS0lTClml81aqeYmQIGiwwyb2cZAdHzbYzYZB53uXyFPQq22NrW',
+var token = 'CAAEO9uQ4ryoBAPm0WgM6GJurnH8ChDxSUuodFd07Vptf1nBZCp98ZC2hadh9ZANfhZCTRVnu9rEdrBGoZCmN3whqcavjmM7FVXy3hy4qfsYpYkBjCvgXOnhrTbnb6DlUdpr1GShlQor5RLO5hnKjTpQ7RzcFOZBKWqQM2A8t1Lfm0OMZBYIdV37JFaaYCFyKv5XbNO5LPA9VXoiXqfYOpGk',
 	isToday = false,
 	findEvent = function(date, events){
     		if(typeof events[date] !== 'undefined'){
